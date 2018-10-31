@@ -1,0 +1,9 @@
+.vscode/
+.vscode
+./vscode/*
+dist/
+dist/*
+node_modules/
+node_modules/*
+.node_modules/
+.node_modules/*
