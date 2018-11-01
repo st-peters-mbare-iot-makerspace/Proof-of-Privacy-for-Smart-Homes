@@ -1,4 +1,4 @@
-#Proof of Privacy for Smart Homes
+# Proof of Privacy for Smart Homes
 
 
 ## Internet Society Zimbabwe Chapter & Golix & St Peters IoT Makerspace
