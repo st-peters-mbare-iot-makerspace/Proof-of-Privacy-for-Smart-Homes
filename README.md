@@ -1,7 +1,7 @@
-**Proof of Privacy for Smart Homes
+#Proof of Privacy for Smart Homes
 
 
-## Isoc-hyperledger
+## Internet Society Zimbabwe Chapter & Golix & St Peters IoT Makerspace
 
 **
 This is a hyper-ledger fabric application for the blockchain for proof of privacy project.
