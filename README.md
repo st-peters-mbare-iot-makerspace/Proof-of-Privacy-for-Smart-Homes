@@ -1,4 +1,5 @@
-**
+**Proof of Privacy for Smart Homes
+
 
 ## Isoc-hyperledger
 
@@ -25,7 +26,7 @@ For Mac OS
 ```
 touch .bash_profile
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
-nvm ó-version
+nvm ‚Äî-version
 
 nvm install --lts
 
@@ -40,7 +41,7 @@ Follow the instructions here to install Docker for Mac (stable): [https://docs.d
 
  Install the Hyperledger Composer Extension for VSCode
 
-Launch VSCode and then press the ìExtensionsî button on the vertical left toolbar.
+Launch VSCode and then press the ‚ÄúExtensions‚Äù button on the vertical left toolbar.
 
 Type  `composer`  into the search bar and then press the  `Install`  button next to the  `Hyperleger Composer`extension. Once the install completes you need to press the  `Reload`  button to activate the extension.
 
