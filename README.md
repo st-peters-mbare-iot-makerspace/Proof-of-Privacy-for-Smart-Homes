@@ -1,7 +1,6 @@
 # Proof of Privacy for Smart Homes
 
-
-## Internet Society Zimbabwe Chapter & Golix & St Peters Mbare IoT Makerspace
+## Internet Society Zimbabwe Chapter, Golix & St Peters Mbare IoT Makerspace
 
 Project includes a Hyperledger application to record data shared by cameras within a connected home using Blockchain technolog as well as a NodeJS user application that will allow home owners to query the blockchain for suspicious unauthorised sharing of private data. 
 
