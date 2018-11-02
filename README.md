@@ -6,7 +6,7 @@ The project is ISOC Zimbabwe's submission for 2018 Chapterthon. It consists of a
 
 The software was created by developers from Golix (https://golix.com/), who also mentored, in the process, students from the St Peters Mbare IoT Makerspace.
 
-The project solves the problem of securing decentrlised IoT smart home deployments using an immutable data store in the form of a private blockchain. 
+The project solves the problem of securing decentralised IoT smart home deployments using an immutable data store in the form of a private blockchain. 
 
 ### Background and Rationale (Secured Decentralised IoT/Web of Things)
 IoT deployments have often been characterised by vertical stacks in which devices from different vendors do not communicate with each other out-of-the-box. This project seeks to explore the use of a Web-of-Things that operates in the same open and decentralised manner in which the World Wide Web works. This was achieved by implementing the Mozilla IoT Gateway on a Raspberry Pi within a connected home setup. 
