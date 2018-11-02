@@ -2,7 +2,7 @@
 
 ## Internet Society Zimbabwe Chapter, Golix & St Peters Mbare IoT Makerspace
 
-Project includes a Hyperledger Fabric application to record data shared by IoT gadgets within a connected home using Blockchain technology. It also contains a NodeJS user application that will allow home owners to query the blockchain for suspicious, unauthorised sharing of private data. 
+The project is ISOC Zimbabwe's submission for 2018 Chapterthon. It consists of a Hyperledger Fabric application to record data shared by IoT gadgets within a connected home using Blockchain technology. It also contains a NodeJS user application that will allow home owners to query the blockchain for suspicious, unauthorised sharing of private data. 
 
 The software was created by developers from Golix (https://golix.com/), who also mentored, in the process, students from the St Peters Mbare IoT Makerspace.
 
