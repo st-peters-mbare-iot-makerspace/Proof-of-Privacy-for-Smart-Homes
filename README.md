@@ -2,7 +2,7 @@
 
 ## Internet Society Zimbabwe Chapter, Golix & St Peters Mbare IoT Makerspace
 
-Project includes a Hyperledger application to record data shared by IoT gadgets within a connected home using Blockchain technology. It also contains a NodeJS user application that will allow home owners to query the blockchain for suspicious, unauthorised sharing of private data. 
+Project includes a Hyperledger Fabric application to record data shared by IoT gadgets within a connected home using Blockchain technology. It also contains a NodeJS user application that will allow home owners to query the blockchain for suspicious, unauthorised sharing of private data. 
 
 The software was created by developers from Golix (https://golix.com/), who also mentored, in the process, students from the St Peters Mbare IoT Makerspace.
 
@@ -11,8 +11,7 @@ The project solves the problem of securing decentrlised IoT smart home deploymen
 ### Background and Rationale (Secured Decentralised IoT/Web of Things)
 IoT deployments have often been characterised by vertical stacks in which devices from different vendors do not communicate with each other out-of-the-box. This project seeks to explore the use of a Web-of-Things that operates in the same open and decentralised manner in which the World Wide Web works. This was achieved by implementing the Mozilla IoT Gateway on a Raspberry Pi within a connected home setup. 
 
-**
-This is a hyper-ledger fabric application for the blockchain for proof of privacy project.
+### Project Details
 
 **Setting up prerequisites** 
 The following are prerequisites for installing the required development tools:
