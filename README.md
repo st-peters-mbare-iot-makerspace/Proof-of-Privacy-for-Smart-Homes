@@ -2,7 +2,7 @@
 
 ## Internet Society Zimbabwe Chapter, Golix & St Peters Mbare IoT Makerspace
 
-Project includes a Hyperledger application to record data shared by IoT gadgets within a connected home using Blockchain technology. It also contains as a NodeJS user application that will allow home owners to query the blockchain for suspicious, unauthorised sharing of private data. 
+Project includes a Hyperledger application to record data shared by IoT gadgets within a connected home using Blockchain technology. It also contains a NodeJS user application that will allow home owners to query the blockchain for suspicious, unauthorised sharing of private data. 
 
 The project solves the problem of securing decentrlised IoT smart home deployments using an immutable data store in the form of a private blockchain.  
 
