@@ -153,7 +153,7 @@ To deploy the `isoc-network` to your local Fabric, use the Composer CLI and exec
 
 ```
 
-composer network install --archiveFile  isoc-network@0.0.1.bna  -- card PeerAdmin@hlfv1
+composer network install --archiveFile  isoc-network@0.0.1.bna  --card PeerAdmin@hlfv1
 
 composer network start --networkName isoc-network --networkVersion 0.0.1 --networkAdmin admin --networkAdminEnrollSecret adminpw --card PeerAdmin@hlfv1 --file isocnetworkadmin.card
 
